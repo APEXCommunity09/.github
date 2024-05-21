@@ -45,7 +45,6 @@ Stay updated on all things APEX:
 
 - 🔗 LinkedIn: [APEX Community](https://www.linkedin.com/company/apex-community/)
 - 📸 Instagram: [apex_mitblr](https://www.instagram.com/apex_mitblr/)
-- 💻 GitHub: [APEX-Community-mitb](https://github.com/APEX-Community-mitb)
 
 Join us on our quest for excellence!
 
