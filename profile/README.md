@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./profile/APEX Logo.png" alt="Logo">
+    <img src="./profile/APEX Logo.png">
   </a>
   <h1 align="center">APEX COMMUNITY</h1>
 </p>
